@@ -16,6 +16,6 @@ public class LV02 {
 
     int x = 1;
     int y = 2;
-    
+
 }
 
