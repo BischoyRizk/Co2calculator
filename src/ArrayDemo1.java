@@ -9,6 +9,7 @@ public class ArrayDemo1 {
         }
         for (int i = 0; i< array1.length; i++){
             System.out.println(array1[i] * array2[i]);
+
         }
 
     }
